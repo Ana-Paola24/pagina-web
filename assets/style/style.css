@@ -271,8 +271,12 @@ input[type="text"], input[type="email"], textarea {
     line-height: 3rem;
 }
 
+#map {
+    width: 40em;
+    height: 31.25em;
+  }
+
 .map h3{
     font-size: 40px; 
     color:#903cffea
 }
-
